@@ -1,0 +1,94 @@
+.Min{
+
+    background: #252424;
+    text-align: center;
+    padding: 5px;
+    color: aliceblue;
+
+}
+.Ar{
+    color: rgb(39, 158, 232);
+    font: bold;
+    font-size: large;
+
+}
+.Wel{
+font: bold;
+font-size: large;
+    color: rgb(134, 143, 242);
+
+}
+
+
+.Righ{
+    text-align: center;
+    position: sticky;
+    margin: 48px;
+    padding: 3px;
+}
+.Hom{
+
+    background: #252424;
+    text-align: center;
+    padding: 8px;
+    margin-top: 6px;
+    margin-bottom: 30px;
+    color: aliceblue;
+
+}
+.Wu{
+    font: bold;
+    font-size: large;
+        color: rgb(134, 143, 242);
+}
+.Ho{
+    color: rgb(39, 158, 232);
+    font: bold;
+    font-size: large;
+
+
+}
+.Home{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.Img{
+    margin-top: 30px;
+    margin-left: 350px;
+    border-radius: 20px;
+
+}
+.Last{
+    text-align: center;
+    margin-top: 20px;
+}
+.Con{
+
+    background: #252424;
+    text-align: center;
+    padding: 8px;
+    margin-top: 6px;
+    margin-bottom: 30px;
+    color: aliceblue;
+
+}
+.Phn{
+    font: bold;
+    font-size: large;
+        color: rgb(134, 143, 242);
+}
+.Mo{
+    color: rgb(39, 158, 232);
+    font: bold;
+    font-size: large;
+}
+.Conte{
+
+text-align: center;
+margin-bottom: 20px;
+
+
+}
+.Foot{
+    text-align: center;
+}
